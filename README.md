@@ -2,9 +2,9 @@
 Scripts for installing play_with_docker 
 
 Small installation script for install play_with_docker to ubuntu 16.04 
-<br>
-1)Home directory /home/ubuntu 
-2)Image used franela/dind can be changed to franela/dind:hybrid 
+
+* Home directory /home/ubuntu 
+* Image used franela/dind can be changed to franela/dind:hybrid 
 
 Usage: 
 ```bash
