@@ -19,7 +19,7 @@ export GOROOT
 
 mkdir -p $HOME/go/src/github.com/play-with-docker 
 cd $HOME/go/src/github.com/play-with-docker
-git clone https://github.com/introproventures/play-with-docker.git
+git clone https://github.com/play-with-docker/play-with-docker.git
 cd play-with-docker
 go get -u github.com/golang/dep/cmd/dep
 dep ensure
